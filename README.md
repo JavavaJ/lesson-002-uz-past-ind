@@ -111,7 +111,7 @@ Read about Sardor and his life experiences. Pay attention to the words ending in
 
 ### Meet Gulnora! / Gulnora bilan tanishing
 
-*Gulnora 30 yoshda va u jurnalist. U juda ko'p sayohat qilgan. U to'rt marta Evropaga borgan - Fransiya, Italiya, Germaniya va Ispaniyaga. U hech qachon Amerikaga bormagan, lekin u Yaponiyaga bir marta borgan. Gulnora uch ta til biladi: o'zbek, rus va ingliz tillarini o'rgangan. U hech qachon arabcha o'rganmagan. U ko'p mashhur odamlar bilan suhbatlashgan - prezidentlar, aktyor va sportchilar bilan. U ikki marta parachutdan sakragan! U sport qilishni yaxshi ko'radi va marafonlarda ikki marta yugurgan. Gulnora hech qachon cho'chqa go'shti yemagan, chunki u musulmon. Lekin u turli milliy taomlarni tatib ko'rgan - yapon, fransuz va italyan taomlarini. U kitob yozgan - "Mening sayohatlarim" nomli.*
+*Gulnora 30 yoshda va u jurnalist. U juda ko'p sayohat qilgan. U to'rt marta Evropaga borgan - Fransiya, Italiya, Germaniya va Ispaniyaga. U hech qachon Amerikaga bormagan, lekin u Yaponiyaga bir marta borgan. Gulnora uch ta til biladi: o'zbek, rus va ingliz tillarini o'rgangan. U hech qachon arabcha o'rganmagan. U ko'p mashhur odamlar bilan suhbatlashgan - prezidentlar, aktyor va sportchilar bilan. U ikki marta parachutdan sakragan! U sport qilishni yaxshi ko'radi va marafonlarda ikki marta yugurgan. Gulnora hech qachon mashina haydashni o'rganmagan, chunki u shahar transportidan foydalanadi. Gulnora turli milliy taomlarni tatib ko'rgan - yapon, fransuz va italyan taomlarini. U kitob yozgan - "Mening sayohatlarim" nomli.*
 
 ![Gulnora](./images/gulnora.jpg)
 
@@ -124,7 +124,7 @@ Read about Sardor and his life experiences. Pay attention to the words ending in
 6. mashhur odamlar bilan suhbatlashmoq
 7. parachutdan sakramoq
 8. marafonda yugurmoq
-9. cho'chqa go'shti yemoq
+9. mashina haydashni o'rganmoq
 10. turli milliy taomlarni tatib ko'rmoq
 11. kitob yozmoq
 
